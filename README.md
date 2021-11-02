@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Theprobl3m
 - 👀 I’m interested in learning new things everyday
-- 🌱 I’m currently learning html, css and JavaScript
+- 🌱 I’m currently learning html, css, python, ruby,and javaScript
 -
 -
 
