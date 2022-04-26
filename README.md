@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Theprobl3m
+- 👋 Hi, I’m paul olumide
 - 👀 I’m interested in learning new things everyday
 - 🌱 I’m currently learning html, css, python, ruby,and javaScript
 -
